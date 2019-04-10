@@ -10,6 +10,10 @@ XB Media Center
 <br>
 <h3>Windows</h3>
 <br>
-<li><a href="http://mirrors.kodi.tv/releases/windows/win32/old/kodi-15.0-Isengard.exe">Isengard 15.0 32Bit</a></li>
-<li><a href="http://mirrors.kodi.tv/releases/windows/win32/old/kodi-15.1-Isengard.exe">Isengard 15.1 32Bit</a></li>
+<li><a href="http://mirrors.kodi.tv/releases/windows/win32/old/kodi-15.0-Isengard.exe">Isengard 15.0 32 Bit</a></li>
+<li><a href="http://mirrors.kodi.tv/releases/windows/win32/old/kodi-15.1-Isengard.exe">Isengard 15.1 32 Bit</a></li>
+<li><a href="http://mirrors.kodi.tv/releases/windows/win32/old/kodi-15.2-Isengard.exe">Isengard 15.2 32 Bit</a></li>
+<li><a href="http://mirrors.kodi.tv/releases/windows/win32/old/kodi-16.0-Jarvis.exe">Jarvis
+  16.0 32 Bit</a></li>
+
 
